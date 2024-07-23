@@ -1,4 +1,4 @@
-<h2 align="center">HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions</h2>
+<h2 align="center">HoloDreamer: Holistic 3D Panoramic World Generation <br>from Text Descriptions</h2>
 
 <h5 align="center">
 
